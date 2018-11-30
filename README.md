@@ -1,3 +1,5 @@
+![alt text](https://www.linuxfoundation.org/wp-content/uploads/2018/08/lfdl-horizontal-color-768x63.png)
+
 # LF Deep Learning Foundation Presentations
 
 This repo will host presentations from the LF Deep Learning community.
